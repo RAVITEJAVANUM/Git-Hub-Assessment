@@ -24,7 +24,7 @@
 <img width="1077" height="271" alt="image" src="https://github.com/user-attachments/assets/2dfd64fd-c070-4816-a598-da0141da3adf" />
 
 ### Pushed the local code to the remote repository
-<img width="810" height="334" alt="image" src="https://github.com/user-attachments/assets/7b2dfc68-e8d9-4574-b0e3-d2129fb45401" />
+<img width="940" height="422" alt="image" src="https://github.com/user-attachments/assets/33540021-4bb4-44ca-b31a-1728dc98c10b" />
 
 #### [Github Repository Link](https://github.com/RAVITEJAVANUM/Git-Hub-Assessment/tree/master)
 
