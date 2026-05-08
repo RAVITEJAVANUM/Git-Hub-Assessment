@@ -64,3 +64,7 @@
 <img width="1060" height="154" alt="image" src="https://github.com/user-attachments/assets/a3e07e1f-6ef5-4b80-8521-f8ab98337f70" />
 
 #### View full commit history
+<img width="929" height="410" alt="image" src="https://github.com/user-attachments/assets/52922e5c-1591-4749-a41d-c7ea96b9c26b" />
+
+#### View one-line history
+<img width="842" height="193" alt="image" src="https://github.com/user-attachments/assets/4aca354a-50db-4f98-9815-41d4cf2c3715" />
