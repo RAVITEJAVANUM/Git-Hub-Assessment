@@ -49,4 +49,8 @@
 <img width="800" height="350" alt="image" src="https://github.com/user-attachments/assets/4535ac67-5dc7-4051-9b9e-d9fb7f16b5b7" />
 
 #### Committed the new code
+<img width="796" height="118" alt="image" src="https://github.com/user-attachments/assets/2130a850-6599-4a9b-be2a-b4b775c1e0cb" />
+
+#### Stage all the changes 
+<img width="876" height="283" alt="image" src="https://github.com/user-attachments/assets/32dddf58-bed1-4a85-895a-b37af7f0c87e" />
 
