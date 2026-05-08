@@ -31,6 +31,6 @@
 <img width="800" height="271" alt="image" src="https://github.com/user-attachments/assets/2dfd64fd-c070-4816-a598-da0141da3adf" />
 
 #### Pushed the local code to the remote repository
-<img width="800" height="422" alt="image" src="https://github.com/user-attachments/assets/33540021-4bb4-44ca-b31a-1728dc98c10b" />
+<img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/33540021-4bb4-44ca-b31a-1728dc98c10b" />
 
 
