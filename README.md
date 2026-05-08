@@ -46,8 +46,7 @@
 <img width="800" height="266" alt="image" src="https://github.com/user-attachments/assets/bd084fb6-1f48-4eaf-9244-16ca9100904d" />
 
 #### Staged only specific changes
-<img width="800" height="324" alt="image" src="https://github.com/user-attachments/assets/9ba845ce-f69d-4f8c-acf8-26e67de10c19" />
-<img width="800" height="302" alt="image" src="https://github.com/user-attachments/assets/4535ac67-5dc7-4051-9b9e-d9fb7f16b5b7" />
+<img width="800" height="350" alt="image" src="https://github.com/user-attachments/assets/4535ac67-5dc7-4051-9b9e-d9fb7f16b5b7" />
 
 #### Committed the new code
 
