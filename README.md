@@ -1,4 +1,16 @@
 # Question 1: Project Initialization & First Push
+1. Add New Folder
+2. git init
+3. Add new file app.py
+4. git status
+5. git add app.py
+6. git status
+7. git commit -m 'My first assessment commit'
+8. git status
+9. Create Remote repository
+10. git remote add origin https://github.com/RAVITEJAVANUM/Git-Hub-Assessment.git
+11. git remote -v
+12. git push --set-upstream origin main
 
 #### Configured Git username and email
 <img width="971" height="106" alt="image" src="https://github.com/user-attachments/assets/c87f7c4a-cea6-4efe-bfa1-8d0e45fef612" />
