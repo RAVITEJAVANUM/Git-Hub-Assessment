@@ -102,3 +102,6 @@
 #### Deleted the feature-update branch
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/d11cc4fb-6fd9-4b3f-a7ac-b52e36139b89" />
 
+#### Created a dummy-feature branch, staged and committed the new changes
+<img width="1123" height="520" alt="image" src="https://github.com/user-attachments/assets/b47b6a4d-2c96-4fc2-8eda-22dcc4375079" />
+
