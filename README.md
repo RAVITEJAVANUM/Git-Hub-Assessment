@@ -60,12 +60,27 @@
 #### Staged all the changes 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/32dddf58-bed1-4a85-895a-b37af7f0c87e" />
 
-#### Commit the changes
+#### Commited the changes
 <img width="800"  alt="image" src="https://github.com/user-attachments/assets/a3e07e1f-6ef5-4b80-8521-f8ab98337f70" />
 
-#### View full commit history
+#### Viewed full commit history
 <img width="800"  alt="image" src="https://github.com/user-attachments/assets/52922e5c-1591-4749-a41d-c7ea96b9c26b" />
 
-#### View one-line history
+#### Viewed one-line history
 <img width="800"
   alt="image" src="https://github.com/user-attachments/assets/4aca354a-50db-4f98-9815-41d4cf2c3715" />
+
+# Question 3: Branching & Feature Development
+1. git checkout -b feature-update
+
+#### Created a new branch
+<img width="801" height="131" alt="image" src="https://github.com/user-attachments/assets/b7db26e4-580d-4a12-82df-904fe4571209" />
+
+#### Switched to new branch 
+<img width="844" height="131" alt="image" src="https://github.com/user-attachments/assets/daa74f9b-f320-4b8c-aa73-a3df48f6dda1" />
+
+#### Added new features and staged the changes
+<img width="872" height="231" alt="image" src="https://github.com/user-attachments/assets/6170004d-a8f6-413b-b9a1-4b0127d5e9d5" />
+
+#### Committed the changes
+<img width="924" height="155" alt="image" src="https://github.com/user-attachments/assets/4666452f-4f24-4f8f-ae4c-9780a8d5512d" />
