@@ -23,4 +23,6 @@
 ### Added remote repository to local and verified the remote configuration
 <img width="1077" height="271" alt="image" src="https://github.com/user-attachments/assets/2dfd64fd-c070-4816-a598-da0141da3adf" />
 
+### Pushed the local code to the remote repository
+<img width="810" height="334" alt="image" src="https://github.com/user-attachments/assets/7b2dfc68-e8d9-4574-b0e3-d2129fb45401" />
 
