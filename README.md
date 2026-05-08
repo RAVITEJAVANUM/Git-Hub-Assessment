@@ -26,6 +26,5 @@
 ### Pushed the local code to the remote repository
 <img width="810" height="334" alt="image" src="https://github.com/user-attachments/assets/7b2dfc68-e8d9-4574-b0e3-d2129fb45401" />
 
-### Link for remote repository
-[Github Repository Link](https://github.com/RAVITEJAVANUM/Git-Hub-Assessment/tree/master)
+#### [Github Repository Link](https://github.com/RAVITEJAVANUM/Git-Hub-Assessment/tree/master)
 
