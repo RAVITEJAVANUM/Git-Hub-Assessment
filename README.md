@@ -17,4 +17,6 @@
 ### Committed the file
 <img width="852" height="263" alt="image" src="https://github.com/user-attachments/assets/60693c6b-31c3-4440-8992-57980248a12d" />
 
+### Created a remote repository
+<img width="1915" height="599" alt="image" src="https://github.com/user-attachments/assets/e0912f7d-5d7d-45ff-86b3-6a48ec6dc57f" />
 
