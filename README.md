@@ -13,13 +13,13 @@
 12. git push --set-upstream origin main
 
 #### Configured Git username and email
-<img width="700" height="106" alt="image" src="https://github.com/user-attachments/assets/c87f7c4a-cea6-4efe-bfa1-8d0e45fef612" />
+<img width="900" height="106" alt="image" src="https://github.com/user-attachments/assets/c87f7c4a-cea6-4efe-bfa1-8d0e45fef612" />
 
 #### Initialized local Git repository
 <img width="700" height="126" alt="image" src="https://github.com/user-attachments/assets/dec6d282-c0d7-49eb-879b-1990e4ff0c85" />
 
 #### Checked the current Git status
-<img width="700" height="986" alt="image" src="https://github.com/user-attachments/assets/2a7d6ef8-8f81-4cc2-8b27-964f16720daf" />
+<img width="900" height="986" alt="image" src="https://github.com/user-attachments/assets/2a7d6ef8-8f81-4cc2-8b27-964f16720daf" />
 
 #### Staged the file
 <img width="700" height="318" alt="image" src="https://github.com/user-attachments/assets/cf42ff7b-c025-4fd2-9adf-26d672b56479" />
