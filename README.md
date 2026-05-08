@@ -95,3 +95,10 @@
 
 #### Merged the feature-update branch into main
 <img width="801"  alt="image" src="https://github.com/user-attachments/assets/326db250-4a67-457e-9a41-d88a7132a1a9" />
+
+#### Verified the changes merged or not
+<img width="763" height="160" alt="image" src="https://github.com/user-attachments/assets/ef19355f-93f8-43db-a9e7-f596e2e94db7" />
+
+#### Deleted the feature-update branch
+<img width="821" height="173" alt="image" src="https://github.com/user-attachments/assets/d11cc4fb-6fd9-4b3f-a7ac-b52e36139b89" />
+
