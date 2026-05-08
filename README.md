@@ -19,7 +19,7 @@
 <img width="800" height="126" alt="image" src="https://github.com/user-attachments/assets/dec6d282-c0d7-49eb-879b-1990e4ff0c85" />
 
 #### Checked the current Git status
-<img width="800" height="986" alt="image" src="https://github.com/user-attachments/assets/2a7d6ef8-8f81-4cc2-8b27-964f16720daf" />
+<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/2a7d6ef8-8f81-4cc2-8b27-964f16720daf" />
 
 #### Staged the file
 <img width="800" height="318" alt="image" src="https://github.com/user-attachments/assets/cf42ff7b-c025-4fd2-9adf-26d672b56479" />
