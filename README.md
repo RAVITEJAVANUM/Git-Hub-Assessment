@@ -19,7 +19,8 @@
 
 ### Created a remote repository "Git-Hub-Assessment"
 <img width="1915" height="599" alt="image" src="https://github.com/user-attachments/assets/e0912f7d-5d7d-45ff-86b3-6a48ec6dc57f" />
-### Added remote repository to local 
+
+### Added remote repository to local and verified the remote configuration
 <img width="1077" height="271" alt="image" src="https://github.com/user-attachments/assets/2dfd64fd-c070-4816-a598-da0141da3adf" />
 
 
