@@ -104,5 +104,8 @@
 
 #### Created a dummy-feature branch, staged and committed the new changes
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/b47b6a4d-2c96-4fc2-8eda-22dcc4375079" />
-<img width="801" alt="image" src="https://github.com/user-attachments/assets/680aa6c8-5d1f-44a7-befa-6f76dd2d073e" />
 
+#### Force deleted the dummy branch
+<img width="1053" height="368" alt="image" src="https://github.com/user-attachments/assets/fddaf034-6457-4e0e-beab-11485e4e6a5d" />
+
+# Question 4: Handling Errors (Stash, Reset, Revert)
