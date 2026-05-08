@@ -38,6 +38,12 @@
 2. git status
 3. git diff
 4. git add -p app.py
+5. git commit -m 'Added new feature'
+6. Make changes to the code
+7. git add app.py
+8. git commit -m 'Added new functionality to the previously added feature'
+9. git log
+10. git log --oneline
 
 #### Check the changes made
 <img width="800" height="265" alt="image" src="https://github.com/user-attachments/assets/e5f26faf-129f-46b5-a527-fa89f74ceba8" />
@@ -51,6 +57,10 @@
 #### Committed the new code
 <img width="796" height="118" alt="image" src="https://github.com/user-attachments/assets/2130a850-6599-4a9b-be2a-b4b775c1e0cb" />
 
-#### Stage all the changes 
+#### Staged all the changes 
 <img width="876" height="283" alt="image" src="https://github.com/user-attachments/assets/32dddf58-bed1-4a85-895a-b37af7f0c87e" />
 
+#### Commit the changes
+<img width="1060" height="154" alt="image" src="https://github.com/user-attachments/assets/a3e07e1f-6ef5-4b80-8521-f8ab98337f70" />
+
+#### View full commit history
