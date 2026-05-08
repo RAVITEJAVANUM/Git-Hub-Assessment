@@ -24,7 +24,7 @@
 #### Staged the file
 <img width="800" height="318" alt="image" src="https://github.com/user-attachments/assets/cf42ff7b-c025-4fd2-9adf-26d672b56479" />
 
-#### Committed the file
+#### Committed the code
 <img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/60693c6b-31c3-4440-8992-57980248a12d" />
 
 #### Added remote repository to local and verified the remote configuration
@@ -34,5 +34,20 @@
 <img width="800" height="260" alt="image" src="https://github.com/user-attachments/assets/33540021-4bb4-44ca-b31a-1728dc98c10b" />
 
 # Question 2: Working with Changes & History
+1. Open app.py and add new functionality
+2. git status
+3. git diff
+4. git add -p app.py
 
+#### Check the changes made
+<img width="800" height="265" alt="image" src="https://github.com/user-attachments/assets/e5f26faf-129f-46b5-a527-fa89f74ceba8" />
+
+#### View the difference between new and old codes 
+<img width="800" height="266" alt="image" src="https://github.com/user-attachments/assets/bd084fb6-1f48-4eaf-9244-16ca9100904d" />
+
+#### Staged only specific changes
+<img width="800" height="324" alt="image" src="https://github.com/user-attachments/assets/9ba845ce-f69d-4f8c-acf8-26e67de10c19" />
+<img width="800" height="302" alt="image" src="https://github.com/user-attachments/assets/4535ac67-5dc7-4051-9b9e-d9fb7f16b5b7" />
+
+#### Committed the new code
 
