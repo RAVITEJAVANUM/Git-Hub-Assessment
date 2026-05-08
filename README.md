@@ -13,25 +13,25 @@
 12. git push --set-upstream origin main
 
 #### Configured Git username and email
-<img width="800" height="106" alt="image" src="https://github.com/user-attachments/assets/c87f7c4a-cea6-4efe-bfa1-8d0e45fef612" />
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/c87f7c4a-cea6-4efe-bfa1-8d0e45fef612" />
 
 #### Initialized local Git repository
-<img width="800" height="126" alt="image" src="https://github.com/user-attachments/assets/dec6d282-c0d7-49eb-879b-1990e4ff0c85" />
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/dec6d282-c0d7-49eb-879b-1990e4ff0c85" />
 
 #### Checked the current Git status
-<img width="800" height="500" alt="image" src="https://github.com/user-attachments/assets/2a7d6ef8-8f81-4cc2-8b27-964f16720daf" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/2a7d6ef8-8f81-4cc2-8b27-964f16720daf" />
 
 #### Staged the file
-<img width="800" height="318" alt="image" src="https://github.com/user-attachments/assets/cf42ff7b-c025-4fd2-9adf-26d672b56479" />
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/cf42ff7b-c025-4fd2-9adf-26d672b56479" />
 
 #### Committed the code
-<img width="800" height="200" alt="image" src="https://github.com/user-attachments/assets/60693c6b-31c3-4440-8992-57980248a12d" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/60693c6b-31c3-4440-8992-57980248a12d" />
 
 #### Added remote repository to local and verified the remote configuration
-<img width="800" height="271" alt="image" src="https://github.com/user-attachments/assets/2dfd64fd-c070-4816-a598-da0141da3adf" />
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/2dfd64fd-c070-4816-a598-da0141da3adf" />
 
 #### Pushed the local code to the remote repository
-<img width="800" height="260" alt="image" src="https://github.com/user-attachments/assets/33540021-4bb4-44ca-b31a-1728dc98c10b" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/33540021-4bb4-44ca-b31a-1728dc98c10b" />
 
 # Question 2: Working with Changes & History
 1. Open app.py and add new functionality
