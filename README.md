@@ -72,15 +72,26 @@
 
 # Question 3: Branching & Feature Development
 1. git checkout -b feature-update
+2. Add new Features to the code
+3. git add app.py
+4. git commit -m 'Added a new Feature-2'
+5. git checkout main
+6. 
 
 #### Created a new branch
-<img width="801" height="131" alt="image" src="https://github.com/user-attachments/assets/b7db26e4-580d-4a12-82df-904fe4571209" />
+<img width="801" alt="image" src="https://github.com/user-attachments/assets/b7db26e4-580d-4a12-82df-904fe4571209" />
 
 #### Switched to new branch 
-<img width="844" height="131" alt="image" src="https://github.com/user-attachments/assets/daa74f9b-f320-4b8c-aa73-a3df48f6dda1" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/daa74f9b-f320-4b8c-aa73-a3df48f6dda1" />
 
 #### Added new features and staged the changes
-<img width="872" height="231" alt="image" src="https://github.com/user-attachments/assets/6170004d-a8f6-413b-b9a1-4b0127d5e9d5" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/6170004d-a8f6-413b-b9a1-4b0127d5e9d5" />
 
 #### Committed the changes
-<img width="924" height="155" alt="image" src="https://github.com/user-attachments/assets/4666452f-4f24-4f8f-ae4c-9780a8d5512d" />
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/4666452f-4f24-4f8f-ae4c-9780a8d5512d" />
+
+#### Switched back to main branch
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/8a9200e1-1448-41f8-b985-14a15ba51b2f" />
+
+#### Merged the feature-update branch into main
+<img width="801"  alt="image" src="https://github.com/user-attachments/assets/326db250-4a67-457e-9a41-d88a7132a1a9" />
