@@ -128,6 +128,11 @@
 9. git add .
 10. git commit -m 'New Feature-4 added'
 11. git reset --hard head~1
+12. Add new code changes
+13. git add .
+14. git commit -m 'New Feature-5 added'
+15. git revert head
+16. git log --oneline
 
 #### Created a new file and stashed the changes
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/460735f8-2ee5-4c17-b75f-a6d2bcc8f9c0" />
@@ -146,3 +151,6 @@
 
 #### Added new code again and committed the changes
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/15ffe1c0-63cf-46d9-be24-9140acf402d7" />
+
+#### Reverted the last commit
+<img width="1083" height="227" alt="image" src="https://github.com/user-attachments/assets/4aa37004-c5e1-4772-bffa-a7068e42c429" />
