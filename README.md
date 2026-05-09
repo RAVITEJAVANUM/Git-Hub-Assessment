@@ -117,3 +117,32 @@
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/fddaf034-6457-4e0e-beab-11485e4e6a5d" />
 
 # Question 4: Handling Errors (Stash, Reset, Revert)
+1. Create a new file config.env
+2. git status
+3. git stash -u -m "Feature is inprogress"
+4. git stash list
+5. git stash pop
+6. git add .
+7. git commit -m 'New Feature-3 added'
+8. Add new code changes
+9. git add .
+10. git commit -m 'New Feature-4 added'
+11. git reset --hard head~1
+
+#### Created a new file and stashed the changes
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/460735f8-2ee5-4c17-b75f-a6d2bcc8f9c0" />
+
+#### Applied the stashed changes back 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/35000d20-2fba-4578-8e09-8ba70d32bfaf" />
+
+#### Staged and committed the changes
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/3d84955b-27c2-4d2f-89ac-67fcc2a24035" />
+
+#### Added new code and committed the changes 
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/29f73a89-bec9-4e3c-b7f3-1f76d943719e" />
+
+#### Resetted the last commit
+<img width="800"  alt="image" src="https://github.com/user-attachments/assets/93bdb09f-fded-44ad-8806-095e20edeaff" />
+
+#### Added new code again and committed the changes
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/15ffe1c0-63cf-46d9-be24-9140acf402d7" />
