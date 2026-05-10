@@ -87,7 +87,7 @@
 14. git branch --delete --forced dummy-feature (or) git branch -D dummy-feature
 
 #### Created a new branch
-<img width="801" alt="image" src="https://github.com/user-attachments/assets/b7db26e4-580d-4a12-82df-904fe4571209" />
+- <img width="801" alt="image" src="https://github.com/user-attachments/assets/b7db26e4-580d-4a12-82df-904fe4571209" />
 
 #### Switched to new branch 
 <img width="800" alt="image" src="https://github.com/user-attachments/assets/daa74f9b-f320-4b8c-aa73-a3df48f6dda1" />
