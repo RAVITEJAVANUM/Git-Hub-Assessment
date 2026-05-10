@@ -153,4 +153,4 @@
 - <img width="800" alt="image" src="https://github.com/user-attachments/assets/15ffe1c0-63cf-46d9-be24-9140acf402d7" />
 
 #### Reverted the last commit
-<img width="800" alt="image" src="https://github.com/user-attachments/assets/4aa37004-c5e1-4772-bffa-a7068e42c429" />
+- <img width="800" alt="image" src="https://github.com/user-attachments/assets/4aa37004-c5e1-4772-bffa-a7068e42c429" />
